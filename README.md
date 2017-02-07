@@ -1,6 +1,4 @@
-## Preview
-
-The theme can be previewed at http://themes.jsonresume.org/flat
+Danish version of jsonresume-theme-flat
 
 ## License
 
